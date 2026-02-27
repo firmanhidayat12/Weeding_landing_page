@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Creator Operating System (COS)</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="container">
+    <h1>Creator Operating System (COS)</h1>
+    <p>Framework Konten ala Sistem Operasional untuk Influencer Profesional</p>
+    <div class="buttons">
+      <a href="#" class="btn primary">Get COS Now</a>
+      <a href="#" class="btn secondary">View Demo</a>
+    </div>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <h2>Influencer Tanpa Sistem = Chaos</h2>
+    <div class="grid-3">
+      <div class="card">Konten numpuk di draft</div>
+      <div class="card">Tidak tahu performa konten</div>
+      <div class="card">Brand collab tidak ter-track</div>
+    </div>
+  </div>
+</section>
+
+<section class="section dark">
+  <div class="container">
+    <h2>Sistem Kerja Influencer Profesional</h2>
+    <ul class="features">
+      <li>✔ Workflow System</li>
+      <li>✔ Status Tracking</li>
+      <li>✔ Approval Flow</li>
+      <li>✔ Reporting Dashboard</li>
+      <li>✔ Evaluation & Improvement Cycle</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>How It Works</h2>
+    <div class="timeline">
+      <span>Plan</span>
+      <span>→</span>
+      <span>Produce</span>
+      <span>→</span>
+      <span>Publish</span>
+      <span>→</span>
+      <span>Analyze</span>
+      <span>→</span>
+      <span>Optimize</span>
+    </div>
+  </div>
+</section>
+
+<section class="section dark">
+  <div class="container">
+    <h2>Pricing</h2>
+    <div class="grid-3">
+      <div class="pricing-card">
+        <h3>Basic</h3>
+        <p>Rp49K</p>
+      </div>
+      <div class="pricing-card highlight">
+        <h3>Pro</h3>
+        <p>Rp129K</p>
+      </div>
+      <div class="pricing-card">
+        <h3>Bundle</h3>
+        <p>Rp179K</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section final">
+  <div class="container">
+    <h2>Upgrade dari Creator ke Brand</h2>
+    <a href="#" class="btn primary big">Get COS Today</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Creator Operating System</p>
+</footer>
+
+</body>
+</html>
